@@ -21,9 +21,9 @@ try {
   const bojData = tbody.map(async (index, elem) => {
     const el = boj$(elem);
 
-    const problemNum = el.find("td:eq(2)").text();
-    const problemName = el.find("td:eq(3)").text();
-    const problemLink = el.find("td:eq(2) a").attr("href");
+    const problemNum = el.find("td:eq(2)").text(); // 백준 문제 번호
+    const problemName = el.find("td:eq(3)").text(); // 백준 문제 이름
+    const problemLink = el.find("td:eq(2) a").attr("href"); // 백준 문제 링크
     console.log(problemName + " " + problemNum + " " + problemLink);
   });
 
