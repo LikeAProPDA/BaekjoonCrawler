@@ -12,6 +12,23 @@ try {
   const jsonData = $('script[data-target="react-app.embeddedData"]').html();
   const parsedData = JSON.parse(jsonData);
 
+  console.log("###########");
+
+  const boj = parsedData.payload.tree.readme.richText;
+  const boj$ = cheerio.load(boj);
+  const tbody = boj$("table tbody tr");
+
+  const bojData = tbody.map(async (index, elem) => {
+    const el = boj$(elem);
+
+    const problemNum = el.find("td:eq(2)").text();
+    const problemName = el.find("td:eq(3)").text();
+    const problemLink = el.find("td:eq(2) a").attr("href");
+    console.log(problemName + " " + problemNum + " " + problemLink);
+  });
+
+  console.log("###########");
+
   // 링크 및 텍스트 추출
   const linksAndTexts = [];
 
@@ -33,7 +50,7 @@ try {
   extractLinks(parsedData.payload.tree.items, "");
 
   // 추출된 데이터 사용
-  console.log(linksAndTexts);
+  // console.log(linksAndTexts);
 } catch (error) {
   console.error("Error fetching data:", error);
 }
