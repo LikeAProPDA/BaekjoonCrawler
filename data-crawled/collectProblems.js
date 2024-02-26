@@ -8,6 +8,8 @@ const fetchDataForAlgorithmLinks = async (algorithmLinks) => {
   for (const algorithmLink of algorithmLinks) {
     const url = `${algorithmLink}`;
 
+    console.log(algorithmLink);
+
     try {
       const response = await axios.get(url);
       const html = response.data;
@@ -25,8 +27,8 @@ const fetchDataForAlgorithmLinks = async (algorithmLinks) => {
         const el = boj$(tbody[j]);
 
         const problem = el.find("td:eq(2)").text();
-
         const problemNum = parseInt(problem);
+        const problemLink = el.find("td:eq(2) a").attr("href"); //문제 링크
 
         const apiUrl = "https://solved.ac/api/v3/problem/show";
 
@@ -42,7 +44,7 @@ const fetchDataForAlgorithmLinks = async (algorithmLinks) => {
 
           const algoName = response.data.titleKo;
           const level = response.data.level;
-          const link = algorithmLink;
+          const link = problemLink;
           const tagDatas = response.data.tags;
           const tags = tagDatas.map((tagData) => {
             const displayName = tagData.displayNames.find(

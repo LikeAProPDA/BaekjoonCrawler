@@ -1,0 +1,701 @@
+[
+  {
+    "problemNum": 1717,
+    "algoName": "집합의 표현",
+    "level": 11,
+    "link": "https://www.acmicpc.net/problem/1717",
+    "tags": [
+      "자료 구조",
+      "분리 집합"
+    ]
+  },
+  {
+    "problemNum": 1976,
+    "algoName": "여행 가자",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/1976",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "problemNum": 16562,
+    "algoName": "친구비",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/16562",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "problemNum": 18116,
+    "algoName": "로봇 조립",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/18116",
+    "tags": [
+      "자료 구조",
+      "분리 집합"
+    ]
+  },
+  {
+    "problemNum": 4195,
+    "algoName": "친구 네트워크",
+    "level": 14,
+    "link": "https://www.acmicpc.net/problem/4195",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "해시를 사용한 집합과 맵"
+    ]
+  },
+  {
+    "problemNum": 10775,
+    "algoName": "공항",
+    "level": 14,
+    "link": "https://www.acmicpc.net/problem/10775",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "problemNum": 17352,
+    "algoName": "여러분의 다리가 되어 드리겠습니다!",
+    "level": 11,
+    "link": "https://www.acmicpc.net/problem/17352",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "problemNum": 7511,
+    "algoName": "소셜 네트워킹 어플리케이션",
+    "level": 11,
+    "link": "https://www.acmicpc.net/problem/7511",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그래프 이론"
+    ]
+  },
+  {
+    "problemNum": 20040,
+    "algoName": "사이클 게임",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/20040",
+    "tags": [
+      "자료 구조",
+      "분리 집합"
+    ]
+  },
+  {
+    "problemNum": 12893,
+    "algoName": "적의 적",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/12893",
+    "tags": [
+      "이분 그래프",
+      "자료 구조",
+      "분리 집합",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "problemNum": 1043,
+    "algoName": "거짓말",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/1043",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "problemNum": 16168,
+    "algoName": "퍼레이드",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/16168",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "오일러 경로",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "problemNum": 20955,
+    "algoName": "민서의 응급 수술",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/20955",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그래프 이론",
+      "그래프 탐색",
+      "트리"
+    ]
+  },
+  {
+    "problemNum": 15789,
+    "algoName": "CTP 왕국은 한솔 왕국을 이길 수 있을까?",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/15789",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그래프 이론",
+      "정렬"
+    ]
+  },
+  {
+    "problemNum": 11085,
+    "algoName": "군사 이동",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/11085",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "problemNum": 17090,
+    "algoName": "미로 탈출하기",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/17090",
+    "tags": [
+      "깊이 우선 탐색",
+      "다이나믹 프로그래밍",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "problemNum": 16724,
+    "algoName": "피리 부는 사나이",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/16724",
+    "tags": [
+      "자료 구조",
+      "깊이 우선 탐색",
+      "분리 집합",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "problemNum": 14595,
+    "algoName": "동방 프로젝트 (Large)",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/14595",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "스위핑"
+    ]
+  },
+  {
+    "problemNum": 3108,
+    "algoName": "로고",
+    "level": 14,
+    "link": "https://www.acmicpc.net/problem/3108",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "기하학"
+    ]
+  },
+  {
+    "problemNum": 17398,
+    "algoName": "통신망 분할",
+    "level": 16,
+    "link": "https://www.acmicpc.net/problem/17398",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "오프라인 쿼리"
+    ]
+  },
+  {
+    "problemNum": 1197,
+    "algoName": "최소 스패닝 트리",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/1197",
+    "tags": [
+      "최소 스패닝 트리",
+      "그래프 이론"
+    ]
+  },
+  {
+    "problemNum": 1922,
+    "algoName": "네트워크 연결",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/1922",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 1647,
+    "algoName": "도시 분할 계획",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/1647",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 16398,
+    "algoName": "행성 연결",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/16398",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 21924,
+    "algoName": "도시 건설",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/21924",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 1774,
+    "algoName": "우주신과의 교감",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/1774",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 14621,
+    "algoName": "나만 안되는 연애",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/14621",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 1368,
+    "algoName": "물대기",
+    "level": 14,
+    "link": "https://www.acmicpc.net/problem/1368",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 6497,
+    "algoName": "전력난",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/6497",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 13905,
+    "algoName": "세부",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/13905",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그래프 이론",
+      "그래프 탐색",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 16202,
+    "algoName": "MST 게임",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/16202",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 18769,
+    "algoName": "그리드 네트워크",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/18769",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 4386,
+    "algoName": "별자리 만들기",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/4386",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 13418,
+    "algoName": "학교 탐방하기",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/13418",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 14950,
+    "algoName": "정복자",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/14950",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 2406,
+    "algoName": "안정적인 네트워크",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/2406",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 17490,
+    "algoName": "일감호에 다리 놓기",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/17490",
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그래프 이론",
+      "그리디 알고리즘",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 1414,
+    "algoName": "불우이웃돕기",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/1414",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리",
+      "문자열"
+    ]
+  },
+  {
+    "problemNum": 10423,
+    "algoName": "전기가 부족해",
+    "level": 14,
+    "link": "https://www.acmicpc.net/problem/10423",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 20010,
+    "algoName": "악덕 영주 혜유",
+    "level": 14,
+    "link": "https://www.acmicpc.net/problem/20010",
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 17472,
+    "algoName": "다리 만들기 2",
+    "level": 15,
+    "link": "https://www.acmicpc.net/problem/17472",
+    "tags": [
+      "너비 우선 탐색",
+      "브루트포스 알고리즘",
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색",
+      "구현",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 1944,
+    "algoName": "복제 로봇",
+    "level": 15,
+    "link": "https://www.acmicpc.net/problem/1944",
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 1045,
+    "algoName": "도로",
+    "level": 15,
+    "link": "https://www.acmicpc.net/problem/1045",
+    "tags": [
+      "그래프 이론",
+      "그리디 알고리즘",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "problemNum": 2887,
+    "algoName": "행성 터널",
+    "level": 16,
+    "link": "https://www.acmicpc.net/problem/2887",
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리",
+      "정렬"
+    ]
+  },
+  {
+    "problemNum": 14425,
+    "algoName": "문자열 집합",
+    "level": 7,
+    "link": "https://www.acmicpc.net/problem/14425",
+    "tags": [
+      "자료 구조",
+      "해시를 사용한 집합과 맵",
+      "문자열",
+      "트리를 사용한 집합과 맵"
+    ]
+  },
+  {
+    "problemNum": 4358,
+    "algoName": "생태학",
+    "level": 9,
+    "link": "https://www.acmicpc.net/problem/4358",
+    "tags": [
+      "자료 구조",
+      "해시를 사용한 집합과 맵",
+      "문자열",
+      "트리를 사용한 집합과 맵"
+    ]
+  },
+  {
+    "problemNum": 20166,
+    "algoName": "문자열 지옥에 빠진 호석",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/20166",
+    "tags": [
+      "자료 구조",
+      "깊이 우선 탐색",
+      "다이나믹 프로그래밍",
+      "그래프 이론",
+      "그래프 탐색",
+      "해시를 사용한 집합과 맵"
+    ]
+  },
+  {
+    "problemNum": 5052,
+    "algoName": "전화번호 목록",
+    "level": 12,
+    "link": "https://www.acmicpc.net/problem/5052",
+    "tags": [
+      "자료 구조",
+      "정렬",
+      "문자열",
+      "트리",
+      "트라이"
+    ]
+  },
+  {
+    "problemNum": 14725,
+    "algoName": "개미굴",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/14725",
+    "tags": [
+      "자료 구조",
+      "문자열",
+      "트리",
+      "트라이"
+    ]
+  },
+  {
+    "problemNum": 9202,
+    "algoName": "Boggle",
+    "level": 16,
+    "link": "https://www.acmicpc.net/problem/9202",
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘",
+      "자료 구조",
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색",
+      "문자열",
+      "트리",
+      "트라이"
+    ]
+  },
+  {
+    "problemNum": 5670,
+    "algoName": "휴대폰 자판",
+    "level": 17,
+    "link": "https://www.acmicpc.net/problem/5670",
+    "tags": [
+      "자료 구조",
+      "문자열",
+      "트리",
+      "트라이"
+    ]
+  },
+  {
+    "problemNum": 5446,
+    "algoName": "용량 부족",
+    "level": 18,
+    "link": "https://www.acmicpc.net/problem/5446",
+    "tags": [
+      "자료 구조",
+      "문자열",
+      "트리",
+      "트라이"
+    ]
+  },
+  {
+    "problemNum": 19585,
+    "algoName": "전설",
+    "level": 18,
+    "link": "https://www.acmicpc.net/problem/19585",
+    "tags": [
+      "자료 구조",
+      "문자열",
+      "트리",
+      "트라이"
+    ]
+  },
+  {
+    "problemNum": 15681,
+    "algoName": "트리와 쿼리",
+    "level": 11,
+    "link": "https://www.acmicpc.net/problem/15681",
+    "tags": [
+      "깊이 우선 탐색",
+      "다이나믹 프로그래밍",
+      "트리에서의 다이나믹 프로그래밍",
+      "그래프 이론",
+      "그래프 탐색",
+      "트리"
+    ]
+  },
+  {
+    "problemNum": 2533,
+    "algoName": "사회망 서비스(SNS)",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/2533",
+    "tags": [
+      "다이나믹 프로그래밍",
+      "트리에서의 다이나믹 프로그래밍",
+      "트리"
+    ]
+  },
+  {
+    "problemNum": 1949,
+    "algoName": "우수 마을",
+    "level": 14,
+    "link": "https://www.acmicpc.net/problem/1949",
+    "tags": [
+      "다이나믹 프로그래밍",
+      "트리에서의 다이나믹 프로그래밍",
+      "트리"
+    ]
+  },
+  {
+    "problemNum": 2213,
+    "algoName": "트리의 독립집합",
+    "level": 15,
+    "link": "https://www.acmicpc.net/problem/2213",
+    "tags": [
+      "다이나믹 프로그래밍",
+      "트리에서의 다이나믹 프로그래밍",
+      "트리"
+    ]
+  },
+  {
+    "problemNum": 2058,
+    "algoName": "원자의 에너지",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/2058",
+    "tags": [
+      "다이나믹 프로그래밍",
+      "트리에서의 다이나믹 프로그래밍",
+      "트리"
+    ]
+  },
+  {
+    "problemNum": 12978,
+    "algoName": "스크루지 민호 2",
+    "level": 13,
+    "link": "https://www.acmicpc.net/problem/12978",
+    "tags": [
+      "다이나믹 프로그래밍",
+      "트리에서의 다이나믹 프로그래밍",
+      "트리"
+    ]
+  },
+  {
+    "problemNum": 1135,
+    "algoName": "뉴스 전하기",
+    "level": 14,
+    "link": "https://www.acmicpc.net/problem/1135",
+    "tags": [
+      "다이나믹 프로그래밍",
+      "트리에서의 다이나믹 프로그래밍",
+      "그리디 알고리즘",
+      "정렬",
+      "트리"
+    ]
+  },
+  {
+    "problemNum": 17831,
+    "algoName": "대기업 승범이네",
+    "level": 16,
+    "link": "https://www.acmicpc.net/problem/17831",
+    "tags": [
+      "다이나믹 프로그래밍",
+      "트리에서의 다이나믹 프로그래밍",
+      "트리"
+    ]
+  }
+]
